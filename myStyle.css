@@ -13,7 +13,10 @@ p, li {
         letter-spacing: 1px; 
 }
         
-html { background-color: #00539F; }
+html { 
+        background-color: #00539F; 
+        background-image: url('arena.png');
+}
         
 body {
         width: 600px;
